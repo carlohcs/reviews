@@ -1,10 +1,10 @@
 # Bootstrap 4 - Por dentro do Bootstrap
 
-## Requerimentos e mudanças:
+## Requerimentos
 
-**É requerido:**
+### É requerido:
 
-### HTML 5 Doctype
+**HTML 5 Doctype**
 
 ```
 <!DOCTYPE html>
@@ -13,15 +13,13 @@
 </html>
 ```
 
-### Meta tag responsiva
+**Meta tag responsiva**
 
 ```
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 ```
 
-**Mudanças**
-
-## Tecnologias e decisões
+## Mudanças de Tecnologias e tomadas de decisões
 
 **<span style='color: red;'>Removido suporte ao IE8 e IE9, assim como browsers antigos</span>**.
  - <span style='color: red;'>Se precisar de suporte para IE8/IE9, iOS 8-, etc, continue usando o Bootstrap 3.</span>
@@ -65,11 +63,11 @@ Para melhor dimensionamento do CSS, o Bootstrap 4 agora mudou o valor da proprie
 
 O que significa?
 
-**CONTENT-BOX**
+**.selector { box-sizing: content-box; }**
 
 ![Content-Box](./content-box.png)
 
-**BORDER-BOX**
+**.selector { box-sizing: border-box; }**
 
 ![Border-Box](./border-box.png)
 
@@ -87,11 +85,17 @@ Por isso, algumas outras aplicações de terceiros podem ter complicações em s
 
 ### Containers
 
-Para o uso do sistema de grid do Bootstrap, é necessário utilizar da classe `container`.
+Para o uso do sistema de grid do Bootstrap, 
+
+**Layout com container fixo**
+
+* É necessário utilizar da classe `.container`.
 
 ![Container](./container.png)
 
-Para um layout com o tamanho máximo do viewport, é necessário o uso da classe `container-fluid`.
+**Layout com container fluído**
+
+* É necessário utilizar da classe `.container-fluid`.
 
 ![Container](./container-fluid.png)
 

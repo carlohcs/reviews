@@ -6,7 +6,7 @@
 
 Descrição: O Bootstrap é um toolkit para desenvolver com HTML, CSS e JavaScript.
 
-    Prototipe suas ideias rapidamente ou crie uma aplicação inteira com seu sistema de grid, componentes pré-construídos e poderosos plugins criados com o jQuery.
+*Prototipe suas ideias rapidamente ou crie uma aplicação inteira com seu sistema de grid, componentes pré-construídos e poderosos plugins criados com o jQuery.*
 
 ## Instalação
 
@@ -16,12 +16,6 @@ Descrição: O Bootstrap é um toolkit para desenvolver com HTML, CSS e JavaScri
 
 ```
 $ npm install bootstrap@4.0.0-beta
-```
-
-- Ruby:
-
-```
-$ gem install bootstrap -v 4.0.0.alpha6
 ```
 
 - Bower:
