@@ -45,14 +45,20 @@ $ bower install bootstrap#v4.0.0-beta
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>
 ```
 
-### [Versão compilada de CSS e Javascript](https://github.com/twbs/bootstrap/releases/download/v4.0.0-beta/bootstrap-4.0.0-beta-dist.zip)
+**Versão compilada de CSS e Javascript**
 
-### [Sources para uso de compilação no projeto](https://github.com/twbs/bootstrap/archive/v4.0.0-beta.zip)
+[Download](https://github.com/twbs/bootstrap/releases/download/v4.0.0-beta/bootstrap-4.0.0-beta-dist.zip)
 
-### [Migração](https://getbootstrap.com/docs/4.0/migration/)
+**Sources para uso de compilação no projeto**
+
+[Download](https://github.com/twbs/bootstrap/releases/download/v4.0.0-beta/bootstrap-4.0.0-beta-dist.zip)
+
+### Migração do Bootstrap 3
+
+[Saiba mais](https://getbootstrap.com/docs/4.0/migration/)
 
 ## [Temas Oficiais](https://themes.getbootstrap.com/)
 
 ## [Template de início (Starter template)](./starter-template.html)
 
-## [Por dentro do Bootstrap](./inside.md)
+## [Saiba mais sobre o novo Bootstrap](./inside.md)
