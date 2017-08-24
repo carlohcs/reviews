@@ -205,7 +205,28 @@ Para o uso do sistema de grid do Bootstrap,
 
 ### Grid
 
-[Saiba mais em colunagem](https://getbootstrap.com/docs/4.0/layout/grid/)
+Por usar flexbox, a nova classe `.col` consegue definir automaticamente o tamanho das colunas, não precisando mais de especificações do tipo ```<div class='col-md-1 col-lg-1'>[...]</div>```.
+
+Exemplo:
+
+```
+<div class="container">
+  <div class="row>
+    <div class="col">
+      Conteúdo 1
+    </div>
+    <div class="col">
+      Conteúdo 2
+    </div>
+    <div class="col">
+      Conteúdo 3
+    </div>
+  </div>
+</div>
+```
+
+
+[Saiba mais](https://getbootstrap.com/docs/4.0/layout/grid/)
 
 ### Stack de fonte nativa
 

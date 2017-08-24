@@ -8,6 +8,10 @@ Descrição: O Bootstrap é um toolkit para desenvolver com HTML, CSS e JavaScri
 
 *Prototipe suas ideias rapidamente ou crie uma aplicação inteira com seu sistema de grid, componentes pré-construídos e poderosos plugins criados com o jQuery.*
 
+## Mais performático
+
+O Bootstrap 4 é 30% menor que o Bootstrap 3! Antes estava em torno de ~123kb e agora está em torno de ~88kb.
+
 ## Instalação
 
 É possível utilizar o Bootstrap através: 
